@@ -57,7 +57,7 @@ class _CountryPageState extends State<CountryPage> {
                             children: [
                               Text(
                                 countryData![index]["country"],
-                                style: TextStyle(fontWeight: FontWeight.bold),
+                                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
                               ),
                               Image.network(
                                 countryData![index]["countryInfo"]["flag"],
@@ -67,14 +67,14 @@ class _CountryPageState extends State<CountryPage> {
                             ],
                           ),
                         ),
-                        Expanded(child: Container(
+                        Expanded(child: Container(margin: EdgeInsets.only(right: 20),
                           child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
                             children: [
-                              Text("CONFIRMED:" + countryData![index]["cases"].toString(), style: TextStyle(fontWeight: FontWeight.bold, color: Colors.red),),
-                              Text("ACTIVE:" + countryData![index]["active"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Colors.blue),),
-                              Text("RECOVERED:" + countryData![index]["recovered"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Colors.green),),
-                              Text("DEATHS:" + countryData![index]["deaths"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).brightness == Brightness.dark ? Colors.grey[100]: Colors.grey[900]),),
+                              Text("CONFIRMED: " + countryData![index]["cases"].toString(), style: TextStyle(fontWeight: FontWeight.bold, color: Colors.red),),
+                              Text("ACTIVE: " + countryData![index]["active"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Colors.blue),),
+                              Text("RECOVERED: " + countryData![index]["recovered"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Colors.green),),
+                              Text("DEATHS: " + countryData![index]["deaths"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).brightness == Brightness.dark ? Colors.grey[100]: Colors.grey[900]),),
                             ],
                           ),
                         ))

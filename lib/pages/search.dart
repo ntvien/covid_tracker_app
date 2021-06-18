@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 class Search extends SearchDelegate {
@@ -57,7 +58,7 @@ class Search extends SearchDelegate {
                         children: [
                           Text(
                             suggestionList[index]["country"],
-                            style: TextStyle(fontWeight: FontWeight.bold),
+                            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
                           ),
                           Image.network(
                             suggestionList[index]["countryInfo"]["flag"],
@@ -68,44 +69,47 @@ class Search extends SearchDelegate {
                       ),
                     ),
                     Expanded(
-                        child: Container(
-                      child: Column(
-                        mainAxisAlignment: MainAxisAlignment.center,
-                        children: [
-                          Text(
-                            "CONFIRMED:" +
-                                suggestionList[index]["cases"].toString(),
-                            style: TextStyle(
-                                fontWeight: FontWeight.bold, color: Colors.red),
-                          ),
-                          Text(
-                            "ACTIVE:" +
-                                suggestionList[index]["active"].toString(),
-                            style: TextStyle(
-                                fontWeight: FontWeight.bold,
-                                color: Colors.blue),
-                          ),
-                          Text(
-                            "RECOVERED:" +
-                                suggestionList[index]["recovered"].toString(),
-                            style: TextStyle(
-                                fontWeight: FontWeight.bold,
-                                color: Colors.green),
-                          ),
-                          Text(
-                            "DEATHS:" +
-                                suggestionList[index]["deaths"].toString(),
-                            style: TextStyle(
-                              fontWeight: FontWeight.bold,
-                              color: Theme.of(context).brightness ==
-                                      Brightness.dark
-                                  ? Colors.grey[100]
-                                  : Colors.grey[900],
+                      child: Container(
+                        padding: EdgeInsets.only(right: 25),
+                        child: Column(
+                          mainAxisAlignment: MainAxisAlignment.center,
+                          children: [
+                            Text(
+                              "CONFIRMED: " +
+                                  suggestionList[index]["cases"].toString(),
+                              style: TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.red),
                             ),
-                          ),
-                        ],
+                            Text(
+                              "ACTIVE: " +
+                                  suggestionList[index]["active"].toString(),
+                              style: TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.blue),
+                            ),
+                            Text(
+                              "RECOVERED: " +
+                                  suggestionList[index]["recovered"].toString(),
+                              style: TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.green),
+                            ),
+                            Text(
+                              "DEATHS: " +
+                                  suggestionList[index]["deaths"].toString(),
+                              style: TextStyle(
+                                fontWeight: FontWeight.bold,
+                                color: Theme.of(context).brightness ==
+                                        Brightness.dark
+                                    ? Colors.grey[100]
+                                    : Colors.grey[900],
+                              ),
+                            ),
+                          ],
+                        ),
                       ),
-                    ))
+                    ),
                   ],
                 ),
               ),
