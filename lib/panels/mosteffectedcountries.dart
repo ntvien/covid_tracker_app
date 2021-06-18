@@ -13,14 +13,14 @@ class MostEffectedCountries extends StatelessWidget {
         physics: NeverScrollableScrollPhysics(),
         itemBuilder: (context, index) {
           return Container(
-            margin: EdgeInsets.symmetric(horizontal: 10, vertical: 5),
+            margin: EdgeInsets.symmetric(horizontal: 13, vertical: 8),
             child: Row(
               children: [
                 Image.network(countryData![index]["countryInfo"]["flag"], height: 25,),
                 SizedBox(width: 10,),
-                Text(countryData![index]["country"], style: TextStyle(fontWeight: FontWeight.bold),),
+                Text(countryData![index]["country"], style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17),),
                 SizedBox(width: 10,),
-                Text("Deaths:" + countryData![index]["deaths"].toString(), style: TextStyle(color: Colors.red, fontWeight: FontWeight.bold),)
+                Text("Deaths: " + countryData![index]["deaths"].toString(), style: TextStyle(color: Colors.red, fontWeight: FontWeight.bold, fontSize: 17),)
               ],
             ),
           );
