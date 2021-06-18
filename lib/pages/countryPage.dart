@@ -30,9 +30,11 @@ class _CountryPageState extends State<CountryPage> {
     return Scaffold(
       appBar: AppBar(
         actions: [
-          IconButton(onPressed: (){
-            showSearch(context: context, delegate: Search(countryData!));
-          }, icon: Icon(Icons.search))
+          IconButton(
+              onPressed: () {
+                showSearch(context: context, delegate: Search(countryData!));
+              },
+              icon: Icon(Icons.search))
         ],
         title: Text("Country States"),
       ),
@@ -44,7 +46,7 @@ class _CountryPageState extends State<CountryPage> {
               itemBuilder: (context, index) {
                 return Card(
                   child: Container(
-                    height: 130,
+                    height: 150,
                     margin: EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                     child: Row(
                       children: [
@@ -57,7 +59,8 @@ class _CountryPageState extends State<CountryPage> {
                             children: [
                               Text(
                                 countryData![index]["country"],
-                                style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+                                style: TextStyle(
+                                    fontWeight: FontWeight.bold, fontSize: 18),
                               ),
                               Image.network(
                                 countryData![index]["countryInfo"]["flag"],
@@ -67,14 +70,44 @@ class _CountryPageState extends State<CountryPage> {
                             ],
                           ),
                         ),
-                        Expanded(child: Container(margin: EdgeInsets.only(right: 20),
+                        Expanded(
+                            child: Container(
+                          margin: EdgeInsets.only(right: 15),
                           child: Column(
                             mainAxisAlignment: MainAxisAlignment.center,
+                            crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
-                              Text("CONFIRMED: " + countryData![index]["cases"].toString(), style: TextStyle(fontWeight: FontWeight.bold, color: Colors.red),),
-                              Text("ACTIVE: " + countryData![index]["active"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Colors.blue),),
-                              Text("RECOVERED: " + countryData![index]["recovered"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Colors.green),),
-                              Text("DEATHS: " + countryData![index]["deaths"].toString(),  style: TextStyle(fontWeight: FontWeight.bold, color: Theme.of(context).brightness == Brightness.dark ? Colors.grey[100]: Colors.grey[900]),),
+                              Text(
+                                "CONFIRMED: " +
+                                    countryData![index]["cases"].toString(),
+                                style: TextStyle(
+                                    fontWeight: FontWeight.bold,
+                                    color: Colors.red),
+                              ),
+                              Text(
+                                "ACTIVE: " +
+                                    countryData![index]["active"].toString(),
+                                style: TextStyle(
+                                    fontWeight: FontWeight.bold,
+                                    color: Colors.blue),
+                              ),
+                              Text(
+                                "RECOVERED: " +
+                                    countryData![index]["recovered"].toString(),
+                                style: TextStyle(
+                                    fontWeight: FontWeight.bold,
+                                    color: Colors.green),
+                              ),
+                              Text(
+                                "DEATHS: " +
+                                    countryData![index]["deaths"].toString(),
+                                style: TextStyle(
+                                    fontWeight: FontWeight.bold,
+                                    color: Theme.of(context).brightness ==
+                                            Brightness.dark
+                                        ? Colors.grey[100]
+                                        : Colors.grey[900]),
+                              ),
                             ],
                           ),
                         ))

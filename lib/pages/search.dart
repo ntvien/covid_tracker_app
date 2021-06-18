@@ -45,7 +45,7 @@ class Search extends SearchDelegate {
           itemBuilder: (context, index) {
             return Card(
               child: Container(
-                height: 130,
+                height: 150,
                 margin: EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                 child: Row(
                   children: [
@@ -58,7 +58,8 @@ class Search extends SearchDelegate {
                         children: [
                           Text(
                             suggestionList[index]["country"],
-                            style: TextStyle(fontWeight: FontWeight.bold, fontSize: 18),
+                            style: TextStyle(
+                                fontWeight: FontWeight.bold, fontSize: 18),
                           ),
                           Image.network(
                             suggestionList[index]["countryInfo"]["flag"],
@@ -70,8 +71,9 @@ class Search extends SearchDelegate {
                     ),
                     Expanded(
                       child: Container(
-                        padding: EdgeInsets.only(right: 25),
+                        padding: EdgeInsets.only(right: 15),
                         child: Column(
+                          crossAxisAlignment: CrossAxisAlignment.start,
                           mainAxisAlignment: MainAxisAlignment.center,
                           children: [
                             Text(
