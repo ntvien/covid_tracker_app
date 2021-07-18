@@ -1,5 +1,9 @@
 import 'dart:convert';
+import 'dart:ffi';
 
+// ignore: import_of_legacy_library_into_null_safe
+import 'package:admob_flutter/admob_flutter.dart';
+import 'package:covid_tracker_app/admob_service.dart';
 import 'package:covid_tracker_app/datascore.dart';
 import 'package:covid_tracker_app/pages/countryPage.dart';
 import 'package:covid_tracker_app/panels/infoPanel.dart';
@@ -10,12 +14,19 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:pie_chart/pie_chart.dart';
 
+// ignore: import_of_legacy_library_into_null_safe
+import 'package:flutter_native_admob/flutter_native_admob.dart';
+// ignore: import_of_legacy_library_into_null_safe
+import 'package:flutter_native_admob/native_admob_controller.dart';
+
 class HomePage extends StatefulWidget {
   @override
   _HomePageState createState() => _HomePageState();
 }
 
 class _HomePageState extends State<HomePage> {
+  late AdmobService? admob = AdmobService();
+
   Widget _buildPieChart() {
     return PieChart(
       dataMap: {
@@ -184,6 +195,14 @@ class _HomePageState extends State<HomePage> {
                   : MostEffectedCountries(
                       countryData: countryData,
                     ),
+              Container(
+                height: 60,
+                width: double.infinity,
+                child: AdmobBanner(
+                  adUnitId: admob!.getBannerAdUnitId(),
+                  adSize: AdmobBannerSize.BANNER,
+                ),
+              ),
               Padding(
                   padding:
                       const EdgeInsets.symmetric(horizontal: 3, vertical: 10),
@@ -202,6 +221,18 @@ class _HomePageState extends State<HomePage> {
               SizedBox(
                 height: 30,
               ),
+
+              // Container(
+              //   color: Colors.greenAccent,
+              //   height: 200,
+              //   width: double.infinity,
+              //   child: NativeAdmob(
+              //     adUnitID: 'ca-app-pub-3940256099942544/8135179316',
+              //     numberAds: 3,
+              //     controller: NativeAdmobController(),
+              //     type: NativeAdmobType.full,
+              //   ),
+              // ),
             ],
           ),
         ),
