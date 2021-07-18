@@ -123,7 +123,7 @@ MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\VIVO
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d67cd79abd1ca209502f51c69d23182b\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:4:9-41
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:4:9-42
 	android:icon
 		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:5:9-43
 activity#com.example.covid_tracker_app.MainActivity
