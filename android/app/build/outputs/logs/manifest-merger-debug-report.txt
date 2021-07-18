@@ -7,6 +7,7 @@ INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\andro
 MERGED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:1-44:12
 MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:shared_preferences] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_native_admob] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\flutter_native_admob\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
 MERGED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
 MERGED from [com.google.firebase:firebase-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\0fe524417776e97b16b98768b2cc1434\jetified-firebase-ads-19.1.0\AndroidManifest.xml:2:1-9:12
 MERGED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c7f95fcd301322ba8a8a31bde2ee685c\jetified-play-services-ads-19.1.0\AndroidManifest.xml:17:1-25:12
@@ -122,7 +123,7 @@ MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\VIVO
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d67cd79abd1ca209502f51c69d23182b\core-1.1.0\AndroidManifest.xml:24:18-86
 	android:label
-		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:4:9-42
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:4:9-41
 	android:icon
 		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:5:9-43
 activity#com.example.covid_tracker_app.MainActivity
@@ -181,6 +182,8 @@ MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tr
 MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:shared_preferences] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:shared_preferences] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_admob] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\flutter_native_admob\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:flutter_native_admob] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\flutter_native_admob\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
 MERGED from [com.google.firebase:firebase-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\0fe524417776e97b16b98768b2cc1434\jetified-firebase-ads-19.1.0\AndroidManifest.xml:5:5-44
@@ -293,6 +296,8 @@ uses-permission#android.permission.INTERNET
 ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml:6:5-66
 MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
 MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:flutter_native_admob] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\flutter_native_admob\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:flutter_native_admob] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\flutter_native_admob\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:23:5-67
 MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:22:5-67

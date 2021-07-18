@@ -146,6 +146,17 @@ id action_divider
 id action_image
 id action_text
 id actions
+id ad_advertiser
+id ad_attribution
+id ad_body
+id ad_call_to_action
+id ad_headline
+id ad_icon
+id ad_media
+id ad_price
+id ad_stars
+id ad_store
+id ad_view
 id adjust_height
 id adjust_width
 id all
@@ -209,6 +220,8 @@ integer status_bar_notification_info_maxnum
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout custom_dialog
+layout native_admob_banner_view
+layout native_admob_full_view
 layout notification_action
 layout notification_action_tombstone
 layout notification_template_custom_big
@@ -216,6 +229,7 @@ layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
 mipmap ic_launcher
+string ad_label
 string common_google_play_services_enable_button
 string common_google_play_services_enable_text
 string common_google_play_services_enable_title
