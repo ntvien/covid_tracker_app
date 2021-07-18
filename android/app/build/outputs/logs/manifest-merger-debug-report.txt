@@ -1,0 +1,481 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:shared_preferences] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.firebase:firebase-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\0fe524417776e97b16b98768b2cc1434\jetified-firebase-ads-19.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c7f95fcd301322ba8a8a31bde2ee685c\jetified-play-services-ads-19.1.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a408deaa5140df3bb0f181a36f4faf4a\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d1528164f2f138370af469fec7ce833e\jetified-play-services-gass-19.1.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcddf127238af6037b188a02a056c217\jetified-play-services-measurement-sdk-17.2.2\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\31c89d9e1b748ef599595ff5ae29e40d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:15:1-39:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2dfee1ad285a56c0e9ebb60d1062e6f1\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\b7a1c6e780b5901c5c6ba597df670b7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\f31f4a6ada123cb60f18546be2a410b1\jetified-play-services-measurement-base-17.2.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\e1bd2db1feee5d3ba4c2e9fd0c079649\jetified-play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\64d02c5d96c216c6bf2b1674be4083eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcffa74d8d015470a7eae32b9eb648c7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\ba80674a1a5fdce2b1b29eea5683af77\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\47b22a8495ac4a135fce51ce3bf2fe5c\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\61dc29951a451b38e03eb63efbda5343\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2f70304b103eacfab05dbe55739e869f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\154602205569c6147c1ab4260dd9d425\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\49dee3543bc65746b6bba9f83aa0b18a\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\68865d38a53fb5c240061f062e474515\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\bcd808757e47d4888ffa27457339053b\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\22a5d9f52d495a432176451a4c4ba982\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2c07f8b2725cf3ca7c7510a86eb18cae\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\86cf751735e9e9dd0416cce35c4a71a1\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5c64f35c4f864d4cd139ccbbff91ceb9\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\9b944abc3171b1b947c5fff909724ff1\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d67cd79abd1ca209502f51c69d23182b\core-1.1.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\b37a656be7da34e79d326523a32fbcaa\lifecycle-runtime-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\29e9e6ac99026fff5bb21139b2ad74ac\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\15faa7fdc535e832982b4615d300cb77\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\033c1099bb4cd11be9138377da501d59\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\943631e3c5a6dfa67bece88add1d3fe3\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\af9af86a2035b10a0514f89f66cf8a9a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6e0f82970a69a6b386ee45a08ac362fe\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a90e9446551659ff6fbf51568b39845a\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2b6a4e71d38d3b36d0c903aac26cfd25\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\bae4382a703142a8f82a100a412243f1\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\11ae9ec956d6bcf258c0fc60ed922820\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\17959936f75234613fb11b8c15b12e4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a49d8fed6e1f73515c23ded9f02890c2\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c88f5d840fd92244dd1c61b8bfcd5bd0\jetified-play-services-ads-base-19.1.0\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml:1:1-7:12
+	package
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:2:5-44
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:1-44:12
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:1:11-69
+application
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:3:4-43:19
+MERGED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.firebase:firebase-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\0fe524417776e97b16b98768b2cc1434\jetified-firebase-ads-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\0fe524417776e97b16b98768b2cc1434\jetified-firebase-ads-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a408deaa5140df3bb0f181a36f4faf4a\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a408deaa5140df3bb0f181a36f4faf4a\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d1528164f2f138370af469fec7ce833e\jetified-play-services-gass-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d1528164f2f138370af469fec7ce833e\jetified-play-services-gass-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcddf127238af6037b188a02a056c217\jetified-play-services-measurement-sdk-17.2.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcddf127238af6037b188a02a056c217\jetified-play-services-measurement-sdk-17.2.2\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\31c89d9e1b748ef599595ff5ae29e40d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\31c89d9e1b748ef599595ff5ae29e40d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:25:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2dfee1ad285a56c0e9ebb60d1062e6f1\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2dfee1ad285a56c0e9ebb60d1062e6f1\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\b7a1c6e780b5901c5c6ba597df670b7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\b7a1c6e780b5901c5c6ba597df670b7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\f31f4a6ada123cb60f18546be2a410b1\jetified-play-services-measurement-base-17.2.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\f31f4a6ada123cb60f18546be2a410b1\jetified-play-services-measurement-base-17.2.2\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\e1bd2db1feee5d3ba4c2e9fd0c079649\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\e1bd2db1feee5d3ba4c2e9fd0c079649\jetified-play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\64d02c5d96c216c6bf2b1674be4083eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\64d02c5d96c216c6bf2b1674be4083eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcffa74d8d015470a7eae32b9eb648c7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcffa74d8d015470a7eae32b9eb648c7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d67cd79abd1ca209502f51c69d23182b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d67cd79abd1ca209502f51c69d23182b\core-1.1.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\af9af86a2035b10a0514f89f66cf8a9a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\af9af86a2035b10a0514f89f66cf8a9a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c88f5d840fd92244dd1c61b8bfcd5bd0\jetified-play-services-ads-base-19.1.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c88f5d840fd92244dd1c61b8bfcd5bd0\jetified-play-services-ads-base-19.1.0\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d67cd79abd1ca209502f51c69d23182b\core-1.1.0\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:4:9-42
+	android:icon
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:5:9-43
+activity#com.example.covid_tracker_app.MainActivity
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:6:9-34:20
+	android:launchMode
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:8:13-43
+	android:hardwareAccelerated
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:11:13-47
+	android:windowSoftInputMode
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:12:13-55
+	android:configChanges
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:10:13-163
+	android:theme
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:9:13-47
+	android:name
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:7:13-41
+meta-data#io.flutter.embedding.android.NormalTheme
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:17:13-20:17
+	android:resource
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:19:15-52
+	android:name
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:18:15-70
+meta-data#io.flutter.embedding.android.SplashScreenDrawable
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:26:13-29:17
+	android:resource
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:28:15-61
+	android:name
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:27:15-79
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:31:17-68
+	android:name
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:32:27-74
+meta-data#flutterEmbedding
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:37:9-39:33
+	android:value
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:39:13-30
+	android:name
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:38:13-44
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:40:8-42:68
+	android:value
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:42:12-66
+	android:name
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml:41:12-68
+uses-sdk
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml
+MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\shared_preferences\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\0fe524417776e97b16b98768b2cc1434\jetified-firebase-ads-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\0fe524417776e97b16b98768b2cc1434\jetified-firebase-ads-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c7f95fcd301322ba8a8a31bde2ee685c\jetified-play-services-ads-19.1.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c7f95fcd301322ba8a8a31bde2ee685c\jetified-play-services-ads-19.1.0\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a408deaa5140df3bb0f181a36f4faf4a\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a408deaa5140df3bb0f181a36f4faf4a\jetified-firebase-analytics-17.2.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d1528164f2f138370af469fec7ce833e\jetified-play-services-gass-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d1528164f2f138370af469fec7ce833e\jetified-play-services-gass-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcddf127238af6037b188a02a056c217\jetified-play-services-measurement-sdk-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcddf127238af6037b188a02a056c217\jetified-play-services-measurement-sdk-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\31c89d9e1b748ef599595ff5ae29e40d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\31c89d9e1b748ef599595ff5ae29e40d\jetified-play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2dfee1ad285a56c0e9ebb60d1062e6f1\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2dfee1ad285a56c0e9ebb60d1062e6f1\jetified-firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\b7a1c6e780b5901c5c6ba597df670b7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\b7a1c6e780b5901c5c6ba597df670b7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\f31f4a6ada123cb60f18546be2a410b1\jetified-play-services-measurement-base-17.2.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\f31f4a6ada123cb60f18546be2a410b1\jetified-play-services-measurement-base-17.2.2\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\e1bd2db1feee5d3ba4c2e9fd0c079649\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\e1bd2db1feee5d3ba4c2e9fd0c079649\jetified-play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\64d02c5d96c216c6bf2b1674be4083eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\64d02c5d96c216c6bf2b1674be4083eb\jetified-firebase-measurement-connector-18.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcffa74d8d015470a7eae32b9eb648c7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcffa74d8d015470a7eae32b9eb648c7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\ba80674a1a5fdce2b1b29eea5683af77\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\ba80674a1a5fdce2b1b29eea5683af77\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\47b22a8495ac4a135fce51ce3bf2fe5c\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\47b22a8495ac4a135fce51ce3bf2fe5c\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\61dc29951a451b38e03eb63efbda5343\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\61dc29951a451b38e03eb63efbda5343\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2f70304b103eacfab05dbe55739e869f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2f70304b103eacfab05dbe55739e869f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\154602205569c6147c1ab4260dd9d425\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\154602205569c6147c1ab4260dd9d425\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\49dee3543bc65746b6bba9f83aa0b18a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\49dee3543bc65746b6bba9f83aa0b18a\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\68865d38a53fb5c240061f062e474515\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\68865d38a53fb5c240061f062e474515\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\bcd808757e47d4888ffa27457339053b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\bcd808757e47d4888ffa27457339053b\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\22a5d9f52d495a432176451a4c4ba982\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\22a5d9f52d495a432176451a4c4ba982\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2c07f8b2725cf3ca7c7510a86eb18cae\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2c07f8b2725cf3ca7c7510a86eb18cae\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\86cf751735e9e9dd0416cce35c4a71a1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\86cf751735e9e9dd0416cce35c4a71a1\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5c64f35c4f864d4cd139ccbbff91ceb9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5c64f35c4f864d4cd139ccbbff91ceb9\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\9b944abc3171b1b947c5fff909724ff1\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\9b944abc3171b1b947c5fff909724ff1\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d67cd79abd1ca209502f51c69d23182b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d67cd79abd1ca209502f51c69d23182b\core-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\b37a656be7da34e79d326523a32fbcaa\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\b37a656be7da34e79d326523a32fbcaa\lifecycle-runtime-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\29e9e6ac99026fff5bb21139b2ad74ac\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\29e9e6ac99026fff5bb21139b2ad74ac\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\15faa7fdc535e832982b4615d300cb77\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\15faa7fdc535e832982b4615d300cb77\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\033c1099bb4cd11be9138377da501d59\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\033c1099bb4cd11be9138377da501d59\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\943631e3c5a6dfa67bece88add1d3fe3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\943631e3c5a6dfa67bece88add1d3fe3\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\af9af86a2035b10a0514f89f66cf8a9a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\af9af86a2035b10a0514f89f66cf8a9a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6e0f82970a69a6b386ee45a08ac362fe\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6e0f82970a69a6b386ee45a08ac362fe\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a90e9446551659ff6fbf51568b39845a\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a90e9446551659ff6fbf51568b39845a\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2b6a4e71d38d3b36d0c903aac26cfd25\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2b6a4e71d38d3b36d0c903aac26cfd25\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\bae4382a703142a8f82a100a412243f1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\bae4382a703142a8f82a100a412243f1\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\11ae9ec956d6bcf258c0fc60ed922820\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\11ae9ec956d6bcf258c0fc60ed922820\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\17959936f75234613fb11b8c15b12e4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\17959936f75234613fb11b8c15b12e4a\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a49d8fed6e1f73515c23ded9f02890c2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\a49d8fed6e1f73515c23ded9f02890c2\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c88f5d840fd92244dd1c61b8bfcd5bd0\jetified-play-services-ads-base-19.1.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c88f5d840fd92244dd1c61b8bfcd5bd0\jetified-play-services-ads-base-19.1.0\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml
+INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\c7f95fcd301322ba8a8a31bde2ee685c\jetified-play-services-ads-19.1.0\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml:6:5-66
+MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [:admob_flutter] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\admob_flutter\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\android\app\src\debug\AndroidManifest.xml:6:22-64
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] C:\Users\VIVOBOOK\Desktop\Projects\Flutter\covid_tracker_app\build\url_launcher\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\6196139f282f6832e1fb5d89cdf3dd90\jetified-play-services-measurement-sdk-api-17.2.2\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7fcbd17452128b633d330cc64659e1b1\jetified-play-services-measurement-impl-17.2.2\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\d3985f153b116e279454eb02b70eadd2\jetified-play-services-measurement-17.2.2\AndroidManifest.xml:49:13-87
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+MERGED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:32:9-36:35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:29:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:36:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:34:13-43
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.2.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\1ac628fa89ae3c785b8955c9b0e3f8a4\jetified-play-services-measurement-api-17.2.2\AndroidManifest.xml:31:17-139
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:19.1.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\7328d70a99902e188e37766cd908e93b\jetified-play-services-ads-lite-19.1.0\AndroidManifest.xml:36:13-76
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.2] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\caed97a353e44434424356651fa95551\jetified-firebase-iid-20.0.2\AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:26:9-30:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:29:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\5f73f71f675ac6cb8cfd88cd8c14dbda\jetified-firebase-common-19.3.0\AndroidManifest.xml:27:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\2631375de80937c90cd3a1032ab35871\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcffa74d8d015470a7eae32b9eb648c7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcffa74d8d015470a7eae32b9eb648c7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\VIVOBOOK\.gradle\caches\transforms-2\files-2.1\dcffa74d8d015470a7eae32b9eb648c7\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
