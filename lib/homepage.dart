@@ -16,14 +16,13 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
-
-  Widget _buildPieChart(){
+  Widget _buildPieChart() {
     return PieChart(
       dataMap: {
-        'Confirmed': worldData!['cases'].toDouble(),
-        'Active': worldData!['active'].toDouble(),
-        'Recovered': worldData!['recovered'].toDouble(),
-        'Deaths': worldData!['deaths'].toDouble()
+        'Confirmed': worldData['cases']?.toDouble() ?? 0.0,
+        'Active': worldData['active']?.toDouble() ?? 0.0,
+        'Recovered': worldData['recovered']?.toDouble() ?? 0.0,
+        'Deaths': worldData['deaths']?.toDouble() ?? 0.0,
       },
       animationDuration: Duration(milliseconds: 800),
       chartLegendSpacing: 60,
@@ -57,7 +56,7 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-  Map? worldData;
+  late Map worldData = Map();
   fetchWorldWideData() async {
     http.Response response =
         await http.get(Uri.parse('https://corona.lmao.ninja/v2/all'));
@@ -160,6 +159,7 @@ class _HomePageState extends State<HomePage> {
                   ],
                 ),
               ),
+              // ignore: unnecessary_null_comparison
               worldData == null
                   ? CircularProgressIndicator()
                   : WorldWidePanel(
